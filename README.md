@@ -1,5 +1,5 @@
 # Scout-Python-JS-Move
-Python prototype application to move Scout robot using a PS3 joystick controller
+Python prototype application to move the Moorebot Scout robot using a PS3 joystick controller
 
 I used an old PS/3 controller attached via USB on my laptop, then
 
